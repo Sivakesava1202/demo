@@ -6,6 +6,6 @@
 <<<<<<< HEAD
 i hope it is not a big problem
 =======
-adding into
+adding in
 this is very bad branch
->>>>>>> verybad
+ get something going o
